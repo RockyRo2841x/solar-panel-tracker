@@ -1,0 +1,4 @@
+# Preserve original source and HEX bytes.
+*.ino -text
+*.hex -text
+*.pdsprj binary

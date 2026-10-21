@@ -1,0 +1,12 @@
+# Fresh builds and local editor/simulator state
+build/
+*.elf
+*.eep
+*.bin
+*.workspace
+Project Backups/
+.vscode/
+
+# Operating-system files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,43 @@
+{
+  "checked_on": "2026-10-21",
+  "files": [
+    {
+      "repository_path": "firmware/SolarPanelControl_Optimized/SolarPanelControl_Optimized.ino",
+      "role": "optimized original source",
+      "bytes": 8087,
+      "sha256": "e25293a51107beab43a02584d5a18c7c5c6cdd62862ca3348062a226e7f2cd6d"
+    },
+    {
+      "repository_path": "archive/Task1/Task1.ino",
+      "role": "earlier source referenced by Proteus path",
+      "bytes": 4554,
+      "sha256": "9d0276989f0be7a44844d977749babfb6dbf1139f3b887ba58ce2f6c4f70ce37"
+    },
+    {
+      "repository_path": "proteus/solar-panel-control.pdsprj",
+      "role": "original Proteus project",
+      "bytes": 23442,
+      "sha256": "c2d832633fd77019d89aeec0a83038523f7ef828415efb601f34481fc0f2e31a"
+    },
+    {
+      "repository_path": "firmware/prebuilt/SolarPanelControl_Optimized.ino.hex",
+      "role": "historical optimized HEX; source/binary match not re-established",
+      "bytes": 14340,
+      "sha256": "da28c74cdee8db880b350d264cc3b0315deeff1e896192dc8077f5c1f629abd8",
+      "intel_hex_records": 320,
+      "data_bytes": 5090,
+      "highest_data_address": 5089,
+      "checksum_and_eof_valid": true
+    },
+    {
+      "repository_path": "archive/Task1/Task1.ino.hex",
+      "role": "historical earlier HEX; source/binary match not re-established",
+      "bytes": 14438,
+      "sha256": "e95f2e7db1e4561303a2c9d483da315cdae9681c57fe255dc64e346990a4494d",
+      "intel_hex_records": 322,
+      "data_bytes": 5126,
+      "highest_data_address": 5125,
+      "checksum_and_eof_valid": true
+    }
+  ]
+}
